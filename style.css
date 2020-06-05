@@ -1,0 +1,40 @@
+body{
+  background:#fcf0d1;
+}
+
+.logo img{
+  height:45px;
+  line-height:40px;
+}
+.navbar{
+ba;
+}
+
+.card-img-top{
+  max-width:130px;
+  margin:auto;
+  justify-content: stretch;
+}
+.card{
+  max-width: width 380px;
+  position:relative;
+  top:70px;
+}
+.card-title{
+  font-size:17px;
+}
+.image1{
+max-width:100%;
+}
+.btn{
+  background-color: orangered;
+}
+.logo2{
+width:60px;
+}
+.navbar-toggler-icon{
+  color:black;
+}
+<button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#myNavbar">
+<span class="navbar-toggler-icon "></span>
+</button>
